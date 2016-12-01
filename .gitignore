@@ -1,0 +1,10 @@
+page/bower_components/*
+
+!page/bower_components/jquery/dist/jquery.min.js
+
+!page/bower_components/bootstrap/dist/js/bootstrap.min.js
+
+!page/bower_components/bootstrap/dist/css/bootstrap.min.js
+
+!page/bower_components/angular/angular.min.js
+
