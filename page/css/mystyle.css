@@ -6,12 +6,49 @@
 }
 
 p.cartoon{
-  font-family:" Comic Sans MS", cursive, sans-serif;
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+  font-size: 20px;
+}
+
+p.cartoon1{
+  font-family: monaco, Consolas, "Lucida Console", monospace;
   font-size: 50px;
 }
 
+p.cartoon2{
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+  font-size: 30px;
+}
+
+p.cartoon3{
+  font-family: monaco, Consolas, "Lucida Console", monospace;
+  font-size: 25px;
+}
 
 img {
     display: block;
     margin: 0 auto;
 }
+
+
+
+
+#wrapper {
+  margin-right: 200px;
+}
+#content {
+  float: left;
+  width: 100%;
+  background-color: #CCF;
+}
+#sidebar {
+  float: right;
+  width: 200px;
+  margin-right: -200px;
+  background-color: #FFA;
+}
+#cleared {
+  clear: both;
+}
+
+
